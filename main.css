@@ -3,7 +3,7 @@ body {
 }
 #image {
   height: 100vh;
-  background-image: url(images/proj1.png);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
+  margin: 0 20%;
 }
