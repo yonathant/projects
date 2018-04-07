@@ -1,0 +1,8 @@
+body {
+  background-color: #fff;
+}
+#image {
+  height: 100vh;
+  background-image: url(images/proj1.png);
+  background-repeat: no-repeat;
+}
